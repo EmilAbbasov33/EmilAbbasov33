@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emil-abbasov8709&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/emil-abbasov8709?label=Followers&style=for-the-badge&color=2ea043" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/emil-abbasov8709?label=Total+Stars&style=for-the-badge&color=e3b341" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=EmilAbbasov33&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/EmilAbbasov33?label=Followers&style=for-the-badge&color=2ea043" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/EmilAbbasov33?label=Total+Stars&style=for-the-badge&color=e3b341" alt="Stars" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=emil-abbasov8709&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Emil's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EmilAbbasov33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Emil's Trophies" />
   </a>
 </p>
 
@@ -45,17 +45,17 @@
 
 **Contribution Timeline (Last 31 Days)**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emil-abbasov8709&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmilAbbasov33&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emil-abbasov8709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil-abbasov8709&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilAbbasov33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilAbbasov33&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emil-abbasov8709&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emil-abbasov8709&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmilAbbasov33&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilAbbasov33&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
