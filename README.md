@@ -7,13 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmilAbbasov33&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Views" />
   <img src="https://img.shields.io/github/followers/EmilAbbasov33?label=Followers&style=for-the-badge&color=2ea043" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/EmilAbbasov33?label=Total+Stars&style=for-the-badge&color=e3b341" alt="Stars" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EmilAbbasov33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Emil's Trophies" />
-  </a>
 </p>
 
 ---
@@ -30,10 +23,9 @@
     </td>
     <td valign="top" width="50%">
       <b>My Tech Arsenal</b><br><br>
-      <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,mysql" alt="Dev Skills" /><br><br>
+      <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,mysql" /><br><br>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Data_Analytics-0055FF?style=flat-square&logo=google-analytics&logoColor=white" />
       <img src="https://img.shields.io/badge/HR_Analytics-FF5733?style=flat-square&logo=groups&logoColor=white" />
     </td>
   </tr>
@@ -45,21 +37,16 @@
 
 **Contribution Timeline**
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilAbbasov33/EmilAbbasov33/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilAbbasov33/EmilAbbasov33/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/EmilAbbasov33/EmilAbbasov33/output/pacman-contribution-graph-dark.svg" width="100%">
-  </picture>
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/EmilAbbasov33/EmilAbbasov33/output/pacman-contribution-graph-dark.svg" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmilAbbasov33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilAbbasov33&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilAbbasov33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilAbbasov33&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmilAbbasov33&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilAbbasov33&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilAbbasov33&theme=tokyonight&hide_border=true&background=1a1b27" width="100%" />
 </p>
 
 ---
@@ -67,6 +54,6 @@
 ### 🤝 Let's Collaborate
 <p align="center">
   <a href="https://www.linkedin.com/in/emil-abbasov8709/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
   </a>
 </p>
